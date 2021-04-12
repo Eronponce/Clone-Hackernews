@@ -1,10 +1,13 @@
 a{
+    color: black;
     text-decoration: none;
-    color:black; 
 }
 
-h4{
-    background-color: orangered;
+.nav{
+    background-color: rgb(235, 116, 73);
+}
+.grey{
+    color: grey;
 }
 .box{
     display: flex;
@@ -13,8 +16,6 @@ h4{
     justify-content: space-between;
     height: auto; 
     width: auto;
-    height: auto;
-
 }
 
 .box1  {  
@@ -47,4 +48,32 @@ h4{
     width: 1000px;
     height: auto;
 }
+.upvote{
+    width: 8px;
+    height: 8px;
+    
+}
+.news{   
+
+
+}
+
+.newstext{
+ 
+padding: 0px;
+
+}
+
+.description{  
+  color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;     
+        padding: 0px;              
+        margin-top: 0%;
+        margin-left: 10px;
+       
+}
+
+
+
 
