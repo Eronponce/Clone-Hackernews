@@ -1,2 +1,3 @@
 file:///C:/Users/labinfo/Desktop/Nova%20pasta/curso-html/index.html site html
 https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML parte do curso
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference referencia de css
