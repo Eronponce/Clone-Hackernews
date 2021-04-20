@@ -42,6 +42,24 @@ a{
     width: 1000px;
     height: auto;
   }
+  .line{
+    
+      width: 1000px ;
+      height: 2px;
+      background-color:orange;
+
+  }
+  .box3{
+    display: flex;
+    align-items: center; 
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
+    background-color: rgb(236, 236, 236);
+    width: 1000px;
+    height: auto;
+    
+  }
 
   .box2 div {
    
@@ -73,7 +91,9 @@ padding: 0px;
         margin-left: 10px;
        
 }
-
+.grey{
+    color: grey;
+}
 
 
 
