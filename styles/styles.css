@@ -87,9 +87,29 @@ padding: 0px;
         margin-left: 10px;
        
 }
+.descriptioncomment{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;     
+    padding: 5px;              
+    margin-top: 0%;
+}
+
 .grey{
     color: grey;
 }
-
+.nodot{
+    list-style-type: none;
+    margin: 0px;
+    
+}
+.commenttext{
+    font-size: 12x;
+    max-width: 90%;
+    margin-left: 8px;
+    margin-inline-end: 80%;
+    overflow-wrap: break-word;
+    padding: 2px;
+}
 
 
