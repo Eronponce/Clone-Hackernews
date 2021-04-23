@@ -3,12 +3,18 @@ a{
     text-decoration: none;
 }
 
+a,.special{
+    color: black;
+}
+
 .nav{
     background-color: rgb(235, 116, 73);
 }
+
 .grey{
     color: grey;
 }
+
 .box{
     display: flex;
     align-items: center;
@@ -42,6 +48,7 @@ a{
     width: 1000px;
     height: auto;
   }
+
   .line{
     
       width: 1000px ;
@@ -49,6 +56,12 @@ a{
       background-color:orange;
 
   }
+  .line2{
+    width:500px ;
+    height: 4px;
+    background-color:orange;
+  }
+
   .box3{
     display: flex;
     align-items: center; 
@@ -61,8 +74,7 @@ a{
     
   }
 
-  .box2 div {
-   
+  .box2 div {  
     width: 1000px;
     height: auto;
 }
@@ -85,31 +97,52 @@ padding: 0px;
         padding: 0px;              
         margin-top: 0%;
         margin-left: 10px;
-       
 }
+
 .descriptioncomment{
     color: grey;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;     
     padding: 5px;              
-    margin-top: 0%;
+    margin-top: 5px;
+    margin-bottom: 0px;
 }
 
 .grey{
     color: grey;
 }
+
 .nodot{
     list-style-type: none;
     margin: 0px;
     
 }
+
 .commenttext{
     font-size: 12x;
     max-width: 90%;
     margin-left: 8px;
     margin-inline-end: 80%;
     overflow-wrap: break-word;
-    padding: 2px;
+    margin-top:0px;
+}
+.orangebig{
+    color: orange;
+    font-size: 80px;
 }
 
+.littlebox{
+    display: flex;
+    align-items: center; 
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
+    background-color: rgb(237, 235, 222);
+    width: 500px;
+    height: auto;
+
+}
+.faq{
+    
+}
 
