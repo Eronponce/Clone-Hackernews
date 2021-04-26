@@ -133,7 +133,7 @@ padding: 0px;
 
 .littlebox{
     display: flex;
-    align-items: center; 
+    
     flex-direction: column;
     justify-content: space-between;
     height: auto;
@@ -144,5 +144,12 @@ padding: 0px;
 }
 .faq{
     
+}
+.listbox{
+    display: flex;    
+    height: auto;
+    background-color: rgb(236, 236, 236);
+    width: 1000px;
+    height: auto;
 }
 
